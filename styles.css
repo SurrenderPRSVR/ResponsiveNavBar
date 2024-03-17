@@ -1,0 +1,9 @@
+.container > nav {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+.search {
+    flex: 0;
+}
+
+

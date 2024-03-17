@@ -1,0 +1,19 @@
+.container > nav {
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+html, body {
+    background-color: #ffeead;
+    margin: 10px;
+    height: 100%;
+    padding: 10px;
+    background-color: #ffeead;
+}
+
+.container > nav {
+    background-color: #96ceb4;
+}
+
