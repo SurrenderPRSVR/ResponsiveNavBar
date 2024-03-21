@@ -17,7 +17,7 @@
 
 html, body {
     background-color: #503D3F;
-    margin: 10px;
+    margin: 5px;
     height: 100%;
     padding: 10px;
     
@@ -38,9 +38,37 @@ h1 {
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    width: 400px;
+    width: 200px;
+    box-shadow: 0 0 10px rgba(82, 255, 184, 0.5);
 }
 
 .advertisement {
+    color: #3C887E;
+    text-align: center;
+    font-style: italic;
+}
+
+.coffee{
     color: #DDAE7E;
+    text-align: center;
+    text-shadow: 1px 1px 0 #52FFB8;
+}
+
+.flavors{
+    color: #3C887E;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+
+.price{
+    color: #DDAE7E;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #52FFB8;
+}
+
+.cup img {
+    max-width: 35%;
+    box-shadow: 0 0 10px rgba(82, 255, 184, 0.5);
 }
